@@ -84,9 +84,11 @@ h1 {
   background-color: #FFA533;
 }
 
+.list-inline {
+  padding-left: 0px;
+}
 
 .list-inline li {
   display: inline-block;
   list-style: none;
-  padding-left: 0px;
 }
